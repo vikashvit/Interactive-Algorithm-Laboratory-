@@ -12,7 +12,10 @@ I have implemented following algorithms
 
 1. Interactive Dijkstra Algorithm on screen
 
-![image](https://user-images.githubusercontent.com/70851852/123685522-6d7e6680-d86c-11eb-9bde-8c7406e5b5ea.png)
+![image](https://user-images.githubusercontent.com/70851852/123685938-dd8cec80-d86c-11eb-9d81-6b9c34b8cd93.png)
+
+![image](https://user-images.githubusercontent.com/70851852/123685960-e382cd80-d86c-11eb-8317-c05152be8c10.png)
+
 
 2. CPU Scheduling Algorithms
 
